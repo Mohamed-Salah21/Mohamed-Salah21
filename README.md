@@ -1,4 +1,4 @@
-<h1 align="center">
+<!-- <h1 align="center">
   Hello! 👋 My Name is Hassan Omar, Welcome To My Github Profile ♥
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25">
 </h1>
@@ -8,7 +8,7 @@
 <!--   <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="50%" height="50%" />
    -->
 </p> 
-
+<!--
 <h3>🚀 About Me</h3> 
 <h4> 
   I am a passionate web developer with a love for creating digital experiences. My development journey started at a young age when I stumbled upon a tutorial on Visual Basic, basic C++ which led me down a path of endless possibilities.
@@ -64,7 +64,7 @@ I am currently seeking a junior Front-End developer position where I can continu
 <!--
 ![Open Source](https://img.shields.io/badge/-Open-Source-%23282C34?style=flat-square&logo=Open-Source)&nbsp; 
 -->
-
+<!--
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
 
